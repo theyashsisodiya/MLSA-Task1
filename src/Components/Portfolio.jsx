@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/comp.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Modern gaming pc";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Unit converter app",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Convert weight kg to pounds, temperature celsius to fahrenheit and vice versa, length km to miles and vice versa",
+    url: "https://github.com/theyashsisodiya/Unit_Converter_App_using_Java",
   },
   {
-    title: "Web Development for Beginners",
+    title: "CI/CD using Jenkins +  Azure DevOps + Terraform + Ansible + Docker + Kubernetes",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Setting up CI/CD pipeline using Jenkins +  Azure DevOps + Terraform + Ansible + Docker + Kubernetes",
+    url: "https://github.com/theyashsisodiya/node-todo-cicd",
   },
   {
-    title: "My Resume Site",
+    title: "sanke game",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Snake game using python",
+    url: "https://github.com/theyashsisodiya/snake_game",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Calculator app",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Calculator app using android studio",
+    url: "https://github.com/theyashsisodiya/Calculator_App_using_Java",
   },
 ];
 
